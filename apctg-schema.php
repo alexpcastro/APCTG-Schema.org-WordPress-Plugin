@@ -7,7 +7,7 @@
  * Author: Alex Castro
  * Author URI: https://apctg.com
  * Author Email: acastro24@fordham.edu
- * License: GPLv2
+ * License: MIT
  */
 
 require_once dirname( __FILE__ ) .'/faq.php';
